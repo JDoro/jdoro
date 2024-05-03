@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My Name Josh! I'm a full-stack software engineer with a particular interest in javascript. 
+
+- 🔭 I’m currently working on developing Reactjs applications and teaching clients how to write Reactjs applications.
+- 🌱 I’m currently learning about StorybookJS and and Azure Devops.
+
 <!--
 **JDoro/jdoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
