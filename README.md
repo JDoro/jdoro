@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name Josh! I'm a full-stack software engineer with a particular interest in javascript. 
+My Name Josh! Full-Stack Developer with a particular passion for building performant UIs with ReactJS. Always happy to help others learn JS!
 
 - 🔭 I’m currently working on developing Reactjs applications and teaching clients how to write Reactjs applications.
 - 🌱 I’m currently learning about StorybookJS and and Azure Devops.
