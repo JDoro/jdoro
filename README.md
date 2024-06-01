@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 
 My Name Josh! Full-Stack Developer with a particular passion for building performant UIs with ReactJS. Always happy to help others learn JS!
 
