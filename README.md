@@ -1,9 +1,9 @@
 ### Howdy! 👋
 
-My Name Josh! Full-Stack Developer with a particular passion for building performant UIs with ReactJS. Always happy to help others learn JS!
+My Name Josh! Full-Stack Developer with a particular passion for building performant UIs. Always happy to help others learn JS!
 
-- 🔭 I’m currently working on developing Reactjs applications and teaching clients how to write Reactjs applications.
-- 🌱 I’m currently learning about StorybookJS and and Azure Devops.
+- 🔭 I’m currently working on developing SPAs in a variety of frameworks and teaching clients how to write SPAs.
+- 🌱 I’m currently learning about StorybookJS and Utilizing AI coding agents.
 
 <!--
 **JDoro/jdoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
