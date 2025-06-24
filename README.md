@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-My Name is Josh! Full-Stack Developer with a particular passion for building performant UIs. Always happy to help others learn JS!
+My name is Josh! Full-Stack Developer with a particular passion for building performant UIs. Always happy to help others learn JS!
 
 - 🔭 I’m currently working on developing SPAs in a variety of frameworks and teaching clients how to write SPAs.
 - 🌱 I’m currently learning about StorybookJS and Utilizing AI coding agents.
