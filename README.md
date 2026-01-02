@@ -17,28 +17,6 @@ Full-Stack Developer with a particular passion for building performant UIs. Alwa
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDoro&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDoro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDoro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
