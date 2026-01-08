@@ -39,6 +39,7 @@ Full-Stack Developer with a particular passion for building performant UIs. Alwa
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
 </div>
 
